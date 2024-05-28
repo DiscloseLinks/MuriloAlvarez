@@ -6,7 +6,6 @@
 
 :root {
   --text-color: white;
-  /* background-color: black; */
   --bg-url: url(./assets/wllppr-preto.png);
   --stroke-color: rgba(255, 255, 255, 0.5);
   --surface-color: rgba(255, 255, 255, 0.078);
@@ -16,7 +15,6 @@
 }
 .light {
   --text-color: black;
-  /* background-color: white; */
   --bg-url: url(./assets/wllppr-branco.png);
   --stroke-color: rgba(0, 0, 0, 0.5);
   --surface-color: rgba(0, 0, 0, 0.042);
