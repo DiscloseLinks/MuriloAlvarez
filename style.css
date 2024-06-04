@@ -38,7 +38,7 @@ body * {
 #container {
   width: 100%;
   max-width: 350px;
-  margin: 56px auto 0px;
+  margin: 40px auto 0px;
   padding: 0px 24px;
 }
 
@@ -93,10 +93,9 @@ body * {
 }
 
 #profile p {
-  font-weight: 500;
-  line-height: 28px;
+  font-weight: 600;
   font-size: 18px;
-  margin-top: 8px;
+  margin-top: 24px;
 }
 
 /* links */
